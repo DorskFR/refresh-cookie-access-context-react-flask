@@ -134,9 +134,6 @@ export const NavbarCustom = () => {
           {user ? loggedIn : loggedOut}
         </Nav>
       </Navbar.Collapse>
-      <Nav.Item>
-        <div className="vernum">v1.1.0</div>
-      </Nav.Item>
     </Navbar >
   );
 };
