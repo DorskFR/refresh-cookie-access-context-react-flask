@@ -4,10 +4,10 @@
 
 ### Backend 
 
-pip install -r requirements.txt
-python manage.py reset_db
-python manage.py create_admin (admin@admin / password)
+* pip install -r requirements.txt
+* python manage.py reset_db
+* python manage.py create_admin (admin@admin / password)
 
 ### Frontend
 
-yarn && yarn start
+* yarn && yarn start
